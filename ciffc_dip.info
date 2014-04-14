@@ -1,4 +1,4 @@
-name = CIFFC Data Integration Module (Prototype)
+name = CIFFC Data Integration Module (Prototype).
 description = "A CIFFC Core Module"
 package = CIFFC
 core = 7.x
